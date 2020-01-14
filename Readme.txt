@@ -1,7 +1,7 @@
 How to run the Internal Complaint Management System (ICMS) Project
-1. Download the zip file
+1. Download the zip files
 
-2. Extract the file and copy cms folder
+2. Extract the file and copy all the extracted folders to "cms" folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
